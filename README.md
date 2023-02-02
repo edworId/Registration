@@ -8,7 +8,7 @@ This simple system get data from new students to do a registration in a database
 
 <h1 align="center">  </h1>
 <p align="center">
-<img width="600", title="REGISTRATION GUI USING TKINTER", img src="https://github.com/edworId/Cadastro/blob/master/registration.png"/>
+<img width="600", title="REGISTRATION GUI USING TKINTER", img src="https://github.com/edworId/Registration/blob/main/registration.png"/>
 </p>
 
 <h6 align="center">This interface was built using python and the library tkinter, which works with GUI developments. </h6>
