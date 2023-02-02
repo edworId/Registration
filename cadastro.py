@@ -141,7 +141,7 @@ class funcs():
         webbrowser.open('https://github.com/edworId') # TO OPEN A LINK IN YOUR BROWSER
     
     def link2(self):
-            webbrowser.open('https://github.com/edworId/Cadastro/blob/master/README.md') # TO OPEN A LINK IN YOUR BROWSER
+            webbrowser.open('https://github.com/edworId/Registration/blob/main/README.md') # TO OPEN A LINK IN YOUR BROWSER
 
 
 
